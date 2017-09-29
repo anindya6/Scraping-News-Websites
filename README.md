@@ -1,2 +1,2 @@
 # Scraping-News-Websites
-In this project, I first put my web scraping skills to the test, by crawling news articles and their comments. Feel free to use my data, but remember to refer this repository!
+In this project, I first put my web scraping skills to the test, by crawling news articles and their comments. This repository in particular has a whole lot of data crawled from the Guardian, but the code can be modified to run on any news website. Some will host comments via i-frames, refer to the Information Retrieval repository for some more codes on how it can be done. Feel free to use my data, but remember to refer this repository!
